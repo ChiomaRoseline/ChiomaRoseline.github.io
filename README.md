@@ -2,7 +2,7 @@ MBEREDE CHIOMA ROSELINE
 
 I am an aspiring cybersecurity professional with hands-on experience in operating system hardening, 
 network scanning, traffic analysis, and virtual lab setup. I am actively building my skills through 
-practical labs and projects and seeking internship opportunities to grow professionally.
+practical labs and projects and seeking opportunities to grow professionally.
 
 Skills & Tools:
 
